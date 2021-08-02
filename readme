@@ -1,1 +1,18 @@
-This is a library with full of algorithms 
+This is a library with algorithms that is useful for competitive programming. These modules are concentrated on mainly pattern matching algorithms and graph algorithms.
+Pattern Matching:
+KMP Algorithm
+Rabin-Karp Algorithm
+Z function Algorithm
+Manacher Algorithm
+Graphs:
+DFS and BFS traversal
+Dijkstra Algorithm
+Least Common Ancestor Algorithm
+Floyd_warshal Algorithm
+Desopo_pape Algorithm
+Bridge Finding Algorithm
+Components Finding Algorithm
+Disjoint Set Union 
+Kruskal Algorithm
+Bipartite Chekcing
+
